@@ -1,3 +1,4 @@
+![logo](https://github.com/AsmaKhanCodes/AsmaKhanCodes/blob/main/banner-github.gif)
 <h1 align="center">Hi 👋, I'm Asma Khan</h1>
 <h3 align="center">A Front-end Web Developer with Full-Stack Aspirations.</h3>
 
