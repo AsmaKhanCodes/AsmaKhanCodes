@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Continuously Upskilling in React.js through online courses and tutorials to enhance my expertise.**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/asmakhancodes/sites](https://app.netlify.com/teams/asmakhancodes/sites)
+- 👨‍💻 Here is my portfolio [my portfolio](https://portfolio-asmakhan.netlify.app/)
 
 - 💬 Ask me about **React Component Lifecycle, State Management in React, Responsive Web Design Techniques, SPA, API integration, or even tips for optimizing web performance.**
 
